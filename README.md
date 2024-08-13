@@ -1,2 +1,2 @@
 # EstructuraDeDatos
-![HOLA:D]("bannergithubh.png")
+![Descripción de la imagen](bannergithubh.png)
