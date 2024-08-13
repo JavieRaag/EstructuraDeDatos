@@ -1,2 +1,2 @@
 # EstructuraDeDatos
-![HOLA:D]("D:/Proyectos ingeneria en computacion/bannergithubh.png")
+![HOLA:D]("bannergithubh.png")
