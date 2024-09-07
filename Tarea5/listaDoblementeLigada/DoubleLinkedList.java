@@ -91,10 +91,10 @@ public class DoubleLinkedList<T> {
 
             for (int i = 1; i < posicion; i++) {
                 aux = aux.getSiguiente();
-        }
+            }
 
-        System.out.println("El elemento en la posicion "+ posicion+ " es: "+aux.getData());
-    }
+            System.out.println("El elemento en la posicion "+ posicion+ " es: "+aux.getData());
+        }
 
     }
 

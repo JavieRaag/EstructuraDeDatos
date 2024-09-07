@@ -47,12 +47,3 @@ public class NodoDoble<T> {
         return "<--| "+ this.data +" |-->";
     }
 }
-
-
-
-
-
-
-
-
-
